@@ -1,4 +1,4 @@
-# BLYNK_IoI_Central_Thermostat
+# BLYNK_IoT_Thermostat
 
 Sensoren en interfacing – Evaluatie week 5
 
