@@ -1,6 +1,8 @@
 # BLYNK_IoT_Thermostat
 
-Sensoren en interfacing – Evaluatie week 5
+Sensoren en interfacing
+
+YouTube video Link: https://www.youtube.com/watch?v=0R0uS9w1HEA
 
 Opdracht: ontwerp (op basis van een microcontroller naar keuze en sensoren naar keuze) een IoT thermostaat voor een centraal verwarmingssysteem:
 1.	Temperatuur meting (0-30 graden op basis van een digitale sensor naar keuze).
